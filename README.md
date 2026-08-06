@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mayank182-AI/dsa_problems/tree/master/0022-generate-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayank182-AI/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -21,10 +22,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/mayank182-AI/dsa_problems/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mayank182-AI/dsa_problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mayank182-AI/dsa_problems/tree/master/0078-subsets) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mayank182-AI/dsa_problems/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mayank182-AI/dsa_problems/tree/master/0022-generate-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/mayank182-AI/dsa_problems/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
