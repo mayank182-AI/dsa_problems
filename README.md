@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/mayank182-AI/dsa_problems/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/mayank182-AI/dsa_problems/tree/master/0165-compare-version-numbers) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayank182-AI/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1143-longest-common-subsequence](https://github.com/mayank182-AI/dsa_problems/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/mayank182-AI/dsa_problems/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/mayank182-AI/dsa_problems/tree/master/0055-jump-game) |
+| [1143-longest-common-subsequence](https://github.com/mayank182-AI/dsa_problems/tree/master/1143-longest-common-subsequence) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -280,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/mayank182-AI/dsa_problems/tree/master/0986-interval-list-intersections) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/mayank182-AI/dsa_problems/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
