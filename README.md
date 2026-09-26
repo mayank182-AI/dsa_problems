@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/mayank182-AI/dsa_problems/tree/master/0054-spiral-matrix) |
 | [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
+| [1603-design-parking-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1603-design-parking-system) |
 ## Linked List
 |  |
 | ------- |
@@ -121,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/mayank182-AI/dsa_problems/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/mayank182-AI/dsa_problems/tree/master/0901-online-stock-span) |
+| [1603-design-parking-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1603-design-parking-system) |
 ## Data Stream
 |  |
 | ------- |
@@ -193,4 +195,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mayank182-AI/dsa_problems/tree/master/0056-merge-intervals) |
+## Counting
+|  |
+| ------- |
+| [1603-design-parking-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1603-design-parking-system) |
 <!---LeetCode Topics End-->
