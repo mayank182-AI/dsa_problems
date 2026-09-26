@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mayank182-AI/dsa_problems/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/mayank182-AI/dsa_problems/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mayank182-AI/dsa_problems/tree/master/0076-minimum-window-substring) |
+| [0079-word-search](https://github.com/mayank182-AI/dsa_problems/tree/master/0079-word-search) |
 | [0165-compare-version-numbers](https://github.com/mayank182-AI/dsa_problems/tree/master/0165-compare-version-numbers) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayank182-AI/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mayank182-AI/dsa_problems/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/mayank182-AI/dsa_problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/mayank182-AI/dsa_problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mayank182-AI/dsa_problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayank182-AI/dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/mayank182-AI/dsa_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/mayank182-AI/dsa_problems/tree/master/0135-candy) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/mayank182-AI/dsa_problems/tree/master/0022-generate-parentheses) |
 | [0046-permutations](https://github.com/mayank182-AI/dsa_problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mayank182-AI/dsa_problems/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/mayank182-AI/dsa_problems/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -70,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mayank182-AI/dsa_problems/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/mayank182-AI/dsa_problems/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/mayank182-AI/dsa_problems/tree/master/0073-set-matrix-zeroes) |
+| [0079-word-search](https://github.com/mayank182-AI/dsa_problems/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
 ## Simulation
 |  |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/mayank182-AI/dsa_problems/tree/master/0079-word-search) |
 | [0098-validate-binary-search-tree](https://github.com/mayank182-AI/dsa_problems/tree/master/0098-validate-binary-search-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mayank182-AI/dsa_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayank182-AI/dsa_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
