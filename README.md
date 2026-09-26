@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/mayank182-AI/dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0134-gas-station](https://github.com/mayank182-AI/dsa_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/mayank182-AI/dsa_problems/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayank182-AI/dsa_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mayank182-AI/dsa_problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mayank182-AI/dsa_problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mayank182-AI/dsa_problems/tree/master/0143-reorder-list) |
 | [0165-compare-version-numbers](https://github.com/mayank182-AI/dsa_problems/tree/master/0165-compare-version-numbers) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayank182-AI/dsa_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0189-rotate-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/mayank182-AI/dsa_problems/tree/master/0098-validate-binary-search-tree) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayank182-AI/dsa_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayank182-AI/dsa_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayank182-AI/dsa_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 ## Binary Lifting
