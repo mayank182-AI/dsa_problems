@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/mayank182-AI/dsa_problems/tree/master/0012-integer-to-roman) |
 | [0022-generate-parentheses](https://github.com/mayank182-AI/dsa_problems/tree/master/0022-generate-parentheses) |
 | [0076-minimum-window-substring](https://github.com/mayank182-AI/dsa_problems/tree/master/0076-minimum-window-substring) |
+| [0165-compare-version-numbers](https://github.com/mayank182-AI/dsa_problems/tree/master/0165-compare-version-numbers) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayank182-AI/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## Sliding Window
 |  |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mayank182-AI/dsa_problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mayank182-AI/dsa_problems/tree/master/0143-reorder-list) |
+| [0165-compare-version-numbers](https://github.com/mayank182-AI/dsa_problems/tree/master/0165-compare-version-numbers) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
