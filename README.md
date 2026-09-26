@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mayank182-AI/dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0560-subarray-sum-equals-k](https://github.com/mayank182-AI/dsa_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mayank182-AI/dsa_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/mayank182-AI/dsa_problems/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0912-sort-an-array) |
 | [1912-design-movie-rental-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1912-design-movie-rental-system) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0165-compare-version-numbers](https://github.com/mayank182-AI/dsa_problems/tree/master/0165-compare-version-numbers) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayank182-AI/dsa_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0189-rotate-array) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mayank182-AI/dsa_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayank182-AI/dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0143-reorder-list](https://github.com/mayank182-AI/dsa_problems/tree/master/0143-reorder-list) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mayank182-AI/dsa_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0901-online-stock-span](https://github.com/mayank182-AI/dsa_problems/tree/master/0901-online-stock-span) |
 ## Recursion
 |  |
@@ -125,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayank182-AI/dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mayank182-AI/dsa_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0901-online-stock-span](https://github.com/mayank182-AI/dsa_problems/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
@@ -207,10 +211,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/mayank182-AI/dsa_problems/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/mayank182-AI/dsa_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/mayank182-AI/dsa_problems/tree/master/0135-candy) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mayank182-AI/dsa_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 ## Sorting
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mayank182-AI/dsa_problems/tree/master/0056-merge-intervals) |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/mayank182-AI/dsa_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0912-sort-an-array) |
 ## Quicksort
 |  |
