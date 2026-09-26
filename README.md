@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/mayank182-AI/dsa_problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mayank182-AI/dsa_problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/mayank182-AI/dsa_problems/tree/master/0078-subsets) |
+| [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,4 +50,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/mayank182-AI/dsa_problems/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/mayank182-AI/dsa_problems/tree/master/0073-set-matrix-zeroes) |
+| [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
+## Simulation
+|  |
+| ------- |
+| [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
 <!---LeetCode Topics End-->
