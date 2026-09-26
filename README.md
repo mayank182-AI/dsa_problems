@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mayank182-AI/dsa_problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
+| [0417-pacific-atlantic-water-flow](https://github.com/mayank182-AI/dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0622-design-circular-queue](https://github.com/mayank182-AI/dsa_problems/tree/master/0622-design-circular-queue) |
 | [1912-design-movie-rental-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1912-design-movie-rental-system) |
 ## Backtracking
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mayank182-AI/dsa_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mayank182-AI/dsa_problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
+| [0417-pacific-atlantic-water-flow](https://github.com/mayank182-AI/dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
 ## Simulation
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/mayank182-AI/dsa_problems/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/mayank182-AI/dsa_problems/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/mayank182-AI/dsa_problems/tree/master/0200-number-of-islands) |
+| [0417-pacific-atlantic-water-flow](https://github.com/mayank182-AI/dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
 ## Binary Tree
 |  |
 | ------- |
@@ -169,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mayank182-AI/dsa_problems/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayank182-AI/dsa_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayank182-AI/dsa_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0417-pacific-atlantic-water-flow](https://github.com/mayank182-AI/dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/mayank182-AI/dsa_problems/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
