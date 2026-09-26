@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/mayank182-AI/dsa_problems/tree/master/0073-set-matrix-zeroes) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayank182-AI/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
 ## String
 |  |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/mayank182-AI/dsa_problems/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/mayank182-AI/dsa_problems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/mayank182-AI/dsa_problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/mayank182-AI/dsa_problems/tree/master/0078-subsets) |
 ## Backtracking
 |  |
@@ -46,4 +48,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/mayank182-AI/dsa_problems/tree/master/0048-rotate-image) |
+| [0073-set-matrix-zeroes](https://github.com/mayank182-AI/dsa_problems/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
