@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0076-minimum-window-substring](https://github.com/mayank182-AI/dsa_problems/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayank182-AI/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [1004-max-consecutive-ones-iii](https://github.com/mayank182-AI/dsa_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Array
 |  |
 | ------- |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0622-design-circular-queue](https://github.com/mayank182-AI/dsa_problems/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0912-sort-an-array) |
 | [0986-interval-list-intersections](https://github.com/mayank182-AI/dsa_problems/tree/master/0986-interval-list-intersections) |
+| [1004-max-consecutive-ones-iii](https://github.com/mayank182-AI/dsa_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1912-design-movie-rental-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1912-design-movie-rental-system) |
 ## Backtracking
 |  |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayank182-AI/dsa_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayank182-AI/dsa_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayank182-AI/dsa_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [1004-max-consecutive-ones-iii](https://github.com/mayank182-AI/dsa_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Lifting
 |  |
 | ------- |
@@ -269,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mayank182-AI/dsa_problems/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/mayank182-AI/dsa_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Sweep Line
 |  |
 | ------- |
