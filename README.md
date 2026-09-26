@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mayank182-AI/dsa_problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayank182-AI/dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
 | [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
+| [0622-design-circular-queue](https://github.com/mayank182-AI/dsa_problems/tree/master/0622-design-circular-queue) |
 ## Backtracking
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mayank182-AI/dsa_problems/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/mayank182-AI/dsa_problems/tree/master/0143-reorder-list) |
+| [0622-design-circular-queue](https://github.com/mayank182-AI/dsa_problems/tree/master/0622-design-circular-queue) |
 ## Two Pointers
 |  |
 | ------- |
@@ -96,9 +98,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0622-design-circular-queue](https://github.com/mayank182-AI/dsa_problems/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/mayank182-AI/dsa_problems/tree/master/0901-online-stock-span) |
 ## Data Stream
 |  |
 | ------- |
 | [0901-online-stock-span](https://github.com/mayank182-AI/dsa_problems/tree/master/0901-online-stock-span) |
+## Queue
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/mayank182-AI/dsa_problems/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
