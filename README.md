@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/mayank182-AI/dsa_problems/tree/master/0073-set-matrix-zeroes) |
 | [0078-subsets](https://github.com/mayank182-AI/dsa_problems/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayank182-AI/dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0134-gas-station](https://github.com/mayank182-AI/dsa_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/mayank182-AI/dsa_problems/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0189-rotate-array) |
 | [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0055-jump-game](https://github.com/mayank182-AI/dsa_problems/tree/master/0055-jump-game) |
+| [0134-gas-station](https://github.com/mayank182-AI/dsa_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/mayank182-AI/dsa_problems/tree/master/0135-candy) |
 ## Sorting
 |  |
