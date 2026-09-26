@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/mayank182-AI/dsa_problems/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayank182-AI/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/mayank182-AI/dsa_problems/tree/master/0560-subarray-sum-equals-k) |
+| [0692-top-k-frequent-words](https://github.com/mayank182-AI/dsa_problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mayank182-AI/dsa_problems/tree/master/0767-reorganize-string) |
 | [1912-design-movie-rental-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1912-design-movie-rental-system) |
 ## String
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/mayank182-AI/dsa_problems/tree/master/0127-word-ladder) |
 | [0165-compare-version-numbers](https://github.com/mayank182-AI/dsa_problems/tree/master/0165-compare-version-numbers) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayank182-AI/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0692-top-k-frequent-words](https://github.com/mayank182-AI/dsa_problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mayank182-AI/dsa_problems/tree/master/0767-reorganize-string) |
 | [1143-longest-common-subsequence](https://github.com/mayank182-AI/dsa_problems/tree/master/1143-longest-common-subsequence) |
 ## Sliding Window
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/mayank182-AI/dsa_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayank182-AI/dsa_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/mayank182-AI/dsa_problems/tree/master/0622-design-circular-queue) |
+| [0692-top-k-frequent-words](https://github.com/mayank182-AI/dsa_problems/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mayank182-AI/dsa_problems/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/mayank182-AI/dsa_problems/tree/master/0986-interval-list-intersections) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/mayank182-AI/dsa_problems/tree/master/0056-merge-intervals) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayank182-AI/dsa_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayank182-AI/dsa_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0692-top-k-frequent-words](https://github.com/mayank182-AI/dsa_problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mayank182-AI/dsa_problems/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mayank182-AI/dsa_problems/tree/master/0973-k-closest-points-to-origin) |
@@ -246,12 +250,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/mayank182-AI/dsa_problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mayank182-AI/dsa_problems/tree/master/0767-reorganize-string) |
 | [1603-design-parking-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1603-design-parking-system) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayank182-AI/dsa_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0692-top-k-frequent-words](https://github.com/mayank182-AI/dsa_problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mayank182-AI/dsa_problems/tree/master/0767-reorganize-string) |
 | [0912-sort-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mayank182-AI/dsa_problems/tree/master/0973-k-closest-points-to-origin) |
@@ -280,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bucket Sort
 |  |
 | ------- |
+| [0692-top-k-frequent-words](https://github.com/mayank182-AI/dsa_problems/tree/master/0692-top-k-frequent-words) |
 | [0912-sort-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0912-sort-an-array) |
 ## Radix Sort
 |  |
@@ -314,4 +321,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/mayank182-AI/dsa_problems/tree/master/0973-k-closest-points-to-origin) |
+## Trie
+|  |
+| ------- |
+| [0692-top-k-frequent-words](https://github.com/mayank182-AI/dsa_problems/tree/master/0692-top-k-frequent-words) |
 <!---LeetCode Topics End-->
