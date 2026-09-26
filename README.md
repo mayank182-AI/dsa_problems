@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/mayank182-AI/dsa_problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayank182-AI/dsa_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mayank182-AI/dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
 | [0560-subarray-sum-equals-k](https://github.com/mayank182-AI/dsa_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayank182-AI/dsa_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/mayank182-AI/dsa_problems/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/mayank182-AI/dsa_problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayank182-AI/dsa_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mayank182-AI/dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
 ## Simulation
 |  |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayank182-AI/dsa_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mayank182-AI/dsa_problems/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/mayank182-AI/dsa_problems/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayank182-AI/dsa_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayank182-AI/dsa_problems/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Lifting
 |  |
@@ -228,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mayank182-AI/dsa_problems/tree/master/0056-merge-intervals) |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayank182-AI/dsa_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayank182-AI/dsa_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0912-sort-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mayank182-AI/dsa_problems/tree/master/0973-k-closest-points-to-origin) |
@@ -242,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/mayank182-AI/dsa_problems/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0912-sort-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/mayank182-AI/dsa_problems/tree/master/0973-k-closest-points-to-origin) |
 | [1912-design-movie-rental-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1912-design-movie-rental-system) |
