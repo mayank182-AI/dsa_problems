@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayank182-AI/dsa_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0622-design-circular-queue](https://github.com/mayank182-AI/dsa_problems/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0912-sort-an-array) |
+| [0986-interval-list-intersections](https://github.com/mayank182-AI/dsa_problems/tree/master/0986-interval-list-intersections) |
 | [1912-design-movie-rental-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1912-design-movie-rental-system) |
 ## Backtracking
 |  |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayank182-AI/dsa_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0189-rotate-array) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/mayank182-AI/dsa_problems/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0986-interval-list-intersections](https://github.com/mayank182-AI/dsa_problems/tree/master/0986-interval-list-intersections) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -267,4 +269,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/mayank182-AI/dsa_problems/tree/master/0560-subarray-sum-equals-k) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/mayank182-AI/dsa_problems/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
