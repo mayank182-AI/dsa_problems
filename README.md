@@ -63,12 +63,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mayank182-AI/dsa_problems/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/mayank182-AI/dsa_problems/tree/master/0143-reorder-list) |
 ## Two Pointers
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mayank182-AI/dsa_problems/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/mayank182-AI/dsa_problems/tree/master/0143-reorder-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/mayank182-AI/dsa_problems/tree/master/0141-linked-list-cycle) |
+## Stack
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/mayank182-AI/dsa_problems/tree/master/0143-reorder-list) |
+## Recursion
+|  |
+| ------- |
+| [0143-reorder-list](https://github.com/mayank182-AI/dsa_problems/tree/master/0143-reorder-list) |
 <!---LeetCode Topics End-->
