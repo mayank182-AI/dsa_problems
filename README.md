@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/mayank182-AI/dsa_problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mayank182-AI/dsa_problems/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/mayank182-AI/dsa_problems/tree/master/0084-largest-rectangle-in-histogram) |
+| [0090-subsets-ii](https://github.com/mayank182-AI/dsa_problems/tree/master/0090-subsets-ii) |
 | [0134-gas-station](https://github.com/mayank182-AI/dsa_problems/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/mayank182-AI/dsa_problems/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mayank182-AI/dsa_problems/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -62,10 +63,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/mayank182-AI/dsa_problems/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/mayank182-AI/dsa_problems/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/mayank182-AI/dsa_problems/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/mayank182-AI/dsa_problems/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/mayank182-AI/dsa_problems/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/mayank182-AI/dsa_problems/tree/master/0090-subsets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
