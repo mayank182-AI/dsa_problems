@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0127-word-ladder](https://github.com/mayank182-AI/dsa_problems/tree/master/0127-word-ladder) |
 | [0141-linked-list-cycle](https://github.com/mayank182-AI/dsa_problems/tree/master/0141-linked-list-cycle) |
 | [0424-longest-repeating-character-replacement](https://github.com/mayank182-AI/dsa_problems/tree/master/0424-longest-repeating-character-replacement) |
+| [0560-subarray-sum-equals-k](https://github.com/mayank182-AI/dsa_problems/tree/master/0560-subarray-sum-equals-k) |
 | [1912-design-movie-rental-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1912-design-movie-rental-system) |
 ## String
 |  |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/mayank182-AI/dsa_problems/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/mayank182-AI/dsa_problems/tree/master/0289-game-of-life) |
 | [0417-pacific-atlantic-water-flow](https://github.com/mayank182-AI/dsa_problems/tree/master/0417-pacific-atlantic-water-flow) |
+| [0560-subarray-sum-equals-k](https://github.com/mayank182-AI/dsa_problems/tree/master/0560-subarray-sum-equals-k) |
 | [0622-design-circular-queue](https://github.com/mayank182-AI/dsa_problems/tree/master/0622-design-circular-queue) |
 | [0912-sort-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0912-sort-an-array) |
 | [1912-design-movie-rental-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1912-design-movie-rental-system) |
@@ -252,4 +254,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/0912-sort-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/mayank182-AI/dsa_problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
