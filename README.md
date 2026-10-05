@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/mayank182-AI/dsa_problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mayank182-AI/dsa_problems/tree/master/0767-reorganize-string) |
 | [1912-design-movie-rental-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1912-design-movie-rental-system) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## String
 |  |
 | ------- |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0986-interval-list-intersections](https://github.com/mayank182-AI/dsa_problems/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/mayank182-AI/dsa_problems/tree/master/1004-max-consecutive-ones-iii) |
 | [1912-design-movie-rental-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1912-design-movie-rental-system) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Backtracking
 |  |
 | ------- |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0692-top-k-frequent-words](https://github.com/mayank182-AI/dsa_problems/tree/master/0692-top-k-frequent-words) |
 | [0767-reorganize-string](https://github.com/mayank182-AI/dsa_problems/tree/master/0767-reorganize-string) |
 | [1603-design-parking-system](https://github.com/mayank182-AI/dsa_problems/tree/master/1603-design-parking-system) |
+| [2190-most-frequent-number-following-key-in-an-array](https://github.com/mayank182-AI/dsa_problems/tree/master/2190-most-frequent-number-following-key-in-an-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
